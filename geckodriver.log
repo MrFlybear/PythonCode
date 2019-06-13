@@ -2794,3 +2794,889 @@ console.error: BroadcastService:
 [GPU
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1557739535729	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\xxcmt\\AppData\\Local\\Temp\\rust_mozprofile.2sO8XyyiBKj7"
+1557739577827	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\xxcmt\\AppData\\Local\\Temp\\rust_mozprofile.nKWgPYzgZLu6"
+1557739580106	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557739580107	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557739580107	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 7828, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10992, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10992, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 7828, Gecko_IOThread] WARNING: file z:/build/build/src/ipc/chromium/src/base/process_util_win.cc, line 166
+1557739605961	Marionette	INFO	Listening on port 62995
+1557739606148	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+[Parent 7828, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 14612, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[[Parent 7828, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1557739763536	Marionette	INFO	Stopped listening on port 62995
+[GPU 3720
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1557739781081	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\xxcmt\\AppData\\Local\\Temp\\rust_mozprofile.sEWhM6LIQSow"
+1557739782219	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557739782220	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557739782220	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557739785605	Marionette	INFO	Listening on port 63453
+1557739786033	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+[Parent 15116, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 15116, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 16340, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child[Parent 15116, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 19984, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 19984, Chro1557741247891	Marionette	INFO	Stopped listening on port 63453
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ole.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1557741207660	Marionette	INFO	Stopped listening on port 63816
+[GPU 21820, Chrome_ChildThread] WARNING: pipe error: 109:
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+file.48EgOHTm90di"
+1557740107405	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557740107406	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557740107407	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557740110951	Marionette	INFO	Listening on port 64098
+1557740111268	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+[Parent 16292, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 16292, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 16292, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 13056, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Chi1557741208818	Marionette	INFO	Stopped listening on port 64098
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+on: about:reader*
+1557740339575	Marionette	INFO	Listening on port 64511
+1557740340001	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 10884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10884, Chrome_ChildT[Parent 21964, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 21964, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 18344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1831557741210316	Marionette	INFO	Stopped listening on port 64511
+[GPU 1
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+[Parent 21964, Gecko_IOThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 493
+JavaScript error: resource://gre/modules/TelemetryController.jsm, line 461: Error: submitExternalPing - Submission is not allowed after shutdown, discarding ping of type: modules
+um/src/chrome/common/ipc_channel_win.cc, line 332
+1557741210537	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began(resource://gre/modules/addons/XPIDatabase.jsm:1233:17) JS Stack trace: saveChanges@XPIDatabase.jsm:1233:17
+verifySignatures@XPIDatabase.jsm:1541:7
+[Child 15092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/co[mCmhild 18200, Chrome_ChioldThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, linn/ipc_channel_win.cc, line 332e
+ 332
+[Child 15092, Chr[Child 18200, Chrome_CohildThread]me_ChildThread] WARNIN[Parent 13432, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Chil[Child 23604, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 23604, Chrome_C[Parent 23896, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 22816, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child1557741211883	Marionette	INFO	Stopped listening on port 65082
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+r for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+[Parent 23868, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 23868, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 20092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 20092, Chrome_ChildThread] WARNING: pipe error[Parent 23868, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 20544, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 20544, Chrome_ChildThread]1557741212956	Marionette	INFO	Stopped listening on port 65446
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+dler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+[Parent 20756, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 1788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Chi[Parent 20756, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 3596, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child1557741214075	Marionette	INFO	Stopped listening on port 49327
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+[Child 24948, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Ch[Parent 19856, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 24788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 24788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build1557741215226	Marionette	INFO	Stopped listening on port 49935
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+r:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+[Parent 21280, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 21280, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 21280, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 24840, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child1557741246516	Marionette	INFO	Stopped listening on port 50213
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1557741419371	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\xxcmt\\AppData\\Local\\Temp\\rust_mozprofile.Rsr6eLTUG9Xw"
+1557741420488	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557741420488	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557741420489	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557741425324	Marionette	INFO	Listening on port 50710
+1557741425443	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+[Parent 18176, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 18176, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0098,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0087,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1E0001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+
+console.error: "[Exception... \"Unexpected error\"  nsresult: \"0x8000ffff (NS_ERROR_UNEXPECTED)\"  location: \"JS frame :: resource://devtools/shared/transport/child-transport.js :: send :: line 106\"  data: no]: send@resource://devtools/shared/transport/child-transport.js:106:7\nsend@resource://devtools/server/main.js:1018:5\n_sendEvent@resource://devtools/shared/protocol.js:1029:5\ninitialize/<@resource://devtools/shared/protocol.js:1005:11\nemit@resource://devtools/shared/event-emitter.js:186:15\nemit@resource://devtools/shared/event-emitter.js:267:5\n_notifyDocShellDestroy@resource://devtools/server/actors/targets/browsing-context.js:816:5\n_onDocShellDestroy@resource://devtools/server/actors/targets/browsing-context.js:726:5\nobserve@resource://devtools/server/actors/targets/browsing-context.js:690:7\n"
+[Exception... "Unexpected error"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: resource://devtools/shared/transport/child-transport.js :: send :: line 106"  data: no]: send@resource://devtools/shared/transport/child-transport.js:106:7
+send@resource://devtools/server/main.js:1018:5
+_sendEvent@resource://devtools/shared/protocol.js:1029:5
+initialize/<@resource://devtools/shared/protocol.js:1005:11
+emit@resource://devtools/shared/event-emitter.js:186:15
+emit@resource://devtools/shared/event-emitter.js:267:5
+_notifyDocShellDestroy@resource://devtools/server/actors/targets/browsing-context.js:816:5
+_onDocShellDestroy@resource://devtools/server/actors/targets/browsing-context.js:726:5
+observe@resource://devtools/server/actors/targets/browsing-context.js:690:7
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1E0001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+
+JavaScript JavaScript error: resource:///modules/sessierror: resource://devtools/server/actors/webconsole.js, oline 734: NS_ERROR_UNEnXsPECTED: t
+ore/SessionStore.jsm, line 1759: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1E0001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+
+JavaScript error: resource:///actors/AboutReaderChild.jsm, line 80: NS_ERROR_UNEXPECTED: 
+[Parent 18176, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1E002C,name=PBrowser::Msg_SetInputContext) Closed channel: cannot send/recv
+
+JavaScript error: resource:///modules/BrowserUsageTelemetry.jsm, line 407: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1E0001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+
+console.error: "[Exception... \"Unexpected error\"  nsresult: \"0x8000ffff (NS_ERROR_UNEXPECTED)\"  location: \"JS frame :: resource://devtools/shared/transport/child-transport.js :: send :: line 106\"  data: no]: send@resource://devtools/shared/transport/child-transport.js:106:7\nsend@resource://devtools/server/main.js:1018:5\n_sendEvent@resource://devtools/shared/protocol.js:1029:5\ninitialize/<@resource://devtools/shared/protocol.js:1005:11\nemit@resource://devtools/shared/event-emitter.js:186:15\nemit@resource://devtools/shared/event-emitter.js:267:5\n_emitNewMutations@resource://devtools/server/actors/inspector/walker.js:1779:5\nthrottle/<@resource://devtools/shared/throttle.js:45:16\nqueueMutation@resource://devtools/server/actors/inspector/walker.js:1762:7\nonMutations@resource://devtools/server/actors/inspector/walker.js:1855:7\n"
+[Exception... "Unexpected error"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: resource://devtools/shared/transport/child-transport.js :: send :: line 106"  data: no]: send@resource://devtools/shared/transport/child-transport.js:106:7
+send@resource://devtools/server/main.js:1018:5
+_sendEvent@resource://devtools/shared/protocol.js:1029:5
+initialize/<@resource://devtools/shared/protocol.js:1005:11
+emit@resource://devtools/shared/event-emitter.js:186:15
+emit@resource://devtools/shared/event-emitter.js:267:5
+_emitNewMutations@resource://devtools/server/actors/inspector/walker.js:1779:5
+throttle/<@resource://devtools/shared/throttle.js:45:16
+queueMutation@resource://devtools/server/actors/inspector/walker.js:1762:7
+onMutations@resource://devtools/server/actors/inspector/walker.js:1855:7
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x350112,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x350112,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x350112,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x350112,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x350112,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+1557797960217	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\xxcmt\\AppData\\Local\\Temp\\rust_mozprofile.HsajRltkUvDx"
+1557797961765	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557797961766	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557797961766	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557797965265	Marionette	INFO	Listening on port 63049
+1557797965345	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1557797992248	Marionette	INFO	Stopped listening on port 63049
+[Child 6220, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 13364, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Chi[Parent 9672, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 4444, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Ch[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1557799299978	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\xxcmt\\AppData\\Local\\Temp\\rust_mozprofile.ajQh6EHVHg9i"
+1557799301434	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557799301434	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557799301435	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557799305166	Marionette	INFO	Listening on port 64444
+1557799305442	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1557799331369	Marionette	INFO	Stopped listening on port 64444
+[Child 7420, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 7420, Chrome_[Parent 5180, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 460, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Ch[GPU 1
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1557799356202	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\xxcmt\\AppData\\Local\\Temp\\rust_mozprofile.ACuWMfY8y9pf"
+1557799357460	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557799357460	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557799357461	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557799361446	Marionette	INFO	Listening on port 64648
+1557799361675	Marionette	WARN	TLS certificate errors will be ignored for this session
+1557799387350	Marionette	INFO	Stopped listening on port 64648
+[Child 8144, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[[Child 5544, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Chi[Parent 1232, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 13576, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Chi[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1557802136849	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\xxcmt\\AppData\\Local\\Temp\\rust_mozprofile.o3xw46J18Vrm"
+1557802138429	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557802138431	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557802138431	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557802142440	Marionette	INFO	Listening on port 52254
+1557802142501	Marionette	WARN	TLS certificate errors will be ignored for this session
+1557802166957	Marionette	INFO	Stopped listening on port 52254
+[Child 11772, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Chi[Parent 3180, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 3180, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 3900, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 3
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1557803772641	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\xxcmt\\AppData\\Local\\Temp\\rust_mozprofile.ca7Tfi52hUdK"
+1557803773880	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557803773880	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557803773881	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557803777594	Marionette	INFO	Listening on port 54033
+1557803777684	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+1557803804313	Marionette	INFO	Stopped listening on port 54033
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+JavaScript error: https://ac.qq.com/ComicView/index/id/525099/cid/403, line 3: TypeError: window.scrollTo is not a function
+[Child 15096, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 15096, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/i[Parent 6988, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[GPU 7892
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1557804442305	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\xxcmt\\AppData\\Local\\Temp\\rust_mozprofile.S1zNK8xj5FAq"
+1557804443496	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557804443497	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557804443497	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557804447520	Marionette	INFO	Listening on port 54637
+1557804447757	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+[Parent 13440, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 13440, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 13440, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1557805474975	Marionette	INFO	Stopped listening on port 54637
+[G
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+05171277	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557805175818	Marionette	INFO	Listening on port 55621
+1557805176010	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 15828, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 15828, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 11740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[[Parent 15828, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 15220, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Chi1557805473635	Marionette	INFO	Stopped listening on port 55621
+[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1557805282981	Marionette	INFO	Stopped listening on port 55824
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 16212, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 16832, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Chi[Parent 16212, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 16212, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1557805479163	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\xxcmt\\AppData\\Local\\Temp\\rust_mozprofile.7luwxJdmoXY9"
+1557805480297	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557805480298	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557805480298	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557805483734	Marionette	INFO	Listening on port 56079
+1557805484116	Marionette	WARN	TLS certificate errors will be ignored for this session
+1557805510471	Marionette	INFO	Stopped listening on port 56079
+[Parent 8520, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 8520, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 16392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Chil[GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1557805572793	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\xxcmt\\AppData\\Local\\Temp\\rust_mozprofile.BUzYqGMQON25"
+1557805573919	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557805573920	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557805573920	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557805577120	Marionette	INFO	Listening on port 56299
+1557805577215	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+[Parent 3764, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 3764, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 16712, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ip[Child 13984, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/chromium/src/chrome/common/ipc_chacn/nel_win.cc, line 332ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+[Ch[[Parent 3764, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 15496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child1557805626690	Marionette	INFO	Stopped listening on port 56299
+[GPU 1
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1557805659859	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\xxcmt\\AppData\\Local\\Temp\\rust_mozprofile.xRs8ir6XRJVz"
+1557805660893	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557805660894	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557805660894	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557805664184	Marionette	INFO	Listening on port 56531
+1557805664242	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+[Parent 3496, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 3496, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 16552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/buil[Child 16252, dC/hrome_Chsirlcd/Tihpc/chromium/src/chrreoame/common/ipc_dc] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/comhmaonnel_win.cc, line 332
+n/ipc_channel_win.cc, line 332
+[Ch[Child 13396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Ch1557805750754	Marionette	INFO	Stopped listening on port 56531
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1557805835090	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\xxcmt\\AppData\\Local\\Temp\\rust_mozprofile.JtRicsjvXVBJ"
+1557805836403	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557805836404	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557805836404	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557805839889	Marionette	INFO	Listening on port 56720
+1557805840210	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+[Parent 3888, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 3888, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 12520, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child1557806029758	Marionette	INFO	Stopped listening on port 56720
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+vedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+[Parent 16344, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 16344, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 15296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/b[Child 17076, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Chuild/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Chi[Parent 16344, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 16860, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Ch1557806030927	Marionette	INFO	Stopped listening on port 56900
+[GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1557806037356	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\xxcmt\\AppData\\Local\\Temp\\rust_mozprofile.hWLFLfEzy3sD"
+1557806038569	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557806038569	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557806038570	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557806041916	Marionette	INFO	Listening on port 57116
+1557806042310	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ac.gtimg.com/media/js/ac.page.chapter.view_v2.4.0.js?v=20190307 line 74 > eval, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+[Parent 3048, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 3048, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 17104, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 17104, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 3048, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child1557818745191	Marionette	INFO	Stopped listening on port 57116
+[GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ssage: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+[Parent 15336, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 15336, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9220, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9220, Chrome[Parent 15336, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 16448, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Chi1557817667484	Marionette	INFO	Stopped listening on port 57303
+[GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1557818337221	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\xxcmt\\AppData\\Local\\Temp\\rust_mozprofile.txEDk99g6MQb"
+1557818338693	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557818338694	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557818338694	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557818342401	Marionette	INFO	Listening on port 59047
+1557818342807	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 17000, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 16476, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 14608, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[1557818746023	Marionette	INFO	Stopped listening on port 59047
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ding manifest: Invalid extension permission: about:reader*
+1557818632087	Marionette	INFO	Listening on port 59260
+1557818632174	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 17404, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 17404, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9532, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 11052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 11557818747424	Marionette	INFO	Stopped listening on port 59260
+[GPU 15324, Chrome_Child
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1557826870986	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\xxcmt\\AppData\\Local\\Temp\\rust_mozprofile.GlpjuHvjbX1c"
+1557826872081	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557826872081	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557826872082	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557826875557	Marionette	INFO	Listening on port 63754
+1557826875954	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+[Parent 17644, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 14016, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 17644, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 12988, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[C1557829117856	Marionette	INFO	Stopped listening on port 63754
+[GPU 17476, Chrom
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1557830501742	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\xxcmt\\AppData\\Local\\Temp\\rust_mozprofile.XBlAmOFuMCOG"
+1557830503177	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557830503177	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557830503178	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557830507221	Marionette	INFO	Listening on port 51195
+1557830507250	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 17420, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 17420, Chrome_ChildThrea[Parent 15804, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10364, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child[Child 18052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 18052, Ch1557830539976	Marionette	INFO	Stopped listening on port 51195
+[GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1558082765362	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\xxcmt\\AppData\\Local\\Temp\\rust_mozprofile.hPSmhsiUCIMS"
+1558082766882	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558082766882	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558082766883	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558082771076	Marionette	INFO	Listening on port 61288
+1558082771104	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 61: TypeError: this.mm.content is null
+[Parent 19712, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 19712, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 19712, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 17628, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[1558082795162	Marionette	INFO	Stopped listening on port 61288
+[GPU 8
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1558082855453	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\xxcmt\\AppData\\Local\\Temp\\rust_mozprofile.NBw9UwirxU4f"
+1558082856883	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558082856884	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558082856884	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558082861260	Marionette	INFO	Listening on port 61445
+1558082861545	Marionette	WARN	TLS certificate errors will be ignored for this session
+1558082870395	Marionette	INFO	Stopped listening on port 61445
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 61: TypeError: this.mm.content is null
+[Child 1892, Chrome_ChildThread] WARNING: pipe error: 109
+###!!! [Child][MessageChannel] Error: (msgtype=0x3500A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+###!!! [Child][MessageChannel] Error: (msgtype=0x3500A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3500A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3500A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3500A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3500A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3500A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3500A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3500A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3500A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3500A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3500A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3500A0,name=PContent::Msg_StartVisitedQuery) Channel closing: too late to send/recv, messages will be lost
+
+[Child 1892, Chrome_ChildThrea[Parent 14972, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 15308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Ch[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1558083025335	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\xxcmt\\AppData\\Local\\Temp\\rust_mozprofile.V61rExF86jxq"
+1558083026852	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558083026853	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558083026853	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558083030726	Marionette	INFO	Listening on port 61630
+1558083030822	Marionette	WARN	TLS certificate errors will be ignored for this session
+1558083039502	Marionette	INFO	Stopped listening on port 61630
+[Parent 13348, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 14164, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 14164, C[Parent 13348, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[GPU1558083085005	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\xxcmt\\AppData\\Local\\Temp\\rust_mozprofile.hL7grogi4SZ2"
+1558083086529	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558083086531	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558083086532	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558083091150	Marionette	INFO	Listening on port 61765
+1558083091643	Marionette	WARN	TLS certificate errors will be ignored for this session
+1558083100193	Marionette	INFO	Stopped listening on port 61765
+[Parent 13628, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 13628, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 12736, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 12736, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/c[Parent 13628, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[GPU 19
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
